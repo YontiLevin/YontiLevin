@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./work_from_home.jpg"/>
+<img src="./sisyphus.jpeg"/>
 <!--
 **YontiLevin/YontiLevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
