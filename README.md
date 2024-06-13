@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./sisyphus_pushing.jpeg"/>
+<img src="./sisyphus_pushing2.jpeg"/>
 <!--
 **YontiLevin/YontiLevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
